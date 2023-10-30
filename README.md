@@ -1,5 +1,7 @@
 # real-estate-sales-analysis
-Real Estate Sales Performance Analysis Dashboard using Power BI
+
+A comprehensive visual representation of sales data, including agent performance, property inventory, financial metrics, and geographic insights, facilitating data-
+driven decision-making in the real estate industry.
 
 Home:
 ![image](https://github.com/hetvimwaghela/real-estate-sales-analysis/assets/148490872/02af062a-8eb8-48df-83a8-86acca7bc406)
